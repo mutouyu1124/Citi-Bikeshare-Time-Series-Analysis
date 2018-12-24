@@ -9,7 +9,7 @@ In this process, `config.yml` provides all the information needed for grabbing d
 * DB_NAME: the name of database
 * USER: the user name of database
 * PWD: the password of database
-* TABLE: the name of the table that used to store data
+* TABLE: name of the table that used to store data
 * DB_TYPE: the type of database (PostgreSQL)
 
 ### [bikeinfo.py](https://pages.github.com/)
@@ -20,3 +20,4 @@ Run like
 ```
 python bikeinfo.py config.yml
 ```
+
