@@ -33,4 +33,4 @@ Run like
 
 This process includes data preprocessing, visualization, transformation, training model, tuning hyper-parameter, evaluation and out of sample forecasts. Here ARIMA model and LSTM are used. The entire process can be found at [`City_Bank_Bike.ipynb`](https://github.com/mutouyu1124/Citi-Bikeshare-Time-Series-Analysis/blob/master/City_Bank_Bike.ipynb)
 
-LSTM_TS() is  a class in `LSTM_ts.py`, which wrap multiple methods including plot(), create_LSTM_model(), train_LSTM_model(), oos_forecast(), etc.
+LSTM_TS() is  a class in [`LSTM_ts.py`](https://github.com/mutouyu1124/Citi-Bikeshare-Time-Series-Analysis/blob/master/LSTM_ts.py), which wrap multiple methods including plot(), create_LSTM_model(), train_LSTM_model(), oos_forecast(), etc.
