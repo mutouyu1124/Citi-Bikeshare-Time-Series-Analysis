@@ -14,7 +14,7 @@ In this process, `config.yml` provides all the information needed for grabbing d
 
 An example of config.yml can be found at  [`config.yml_example`](https://github.com/mutouyu1124/Citi-Bikeshare-Time-Series-Analysis/blob/master/config.yml_example.yml)
 
-### [bikeinfo.py](https://pages.github.com/)
+### [bikeinfo.py](https://github.com/mutouyu1124/Citi-Bikeshare-Time-Series-Analysis/blob/master/bikeinfo.py)
 
 Use this script to grab the status of every Citi Bike station through Citi Bike API, 
 
@@ -29,3 +29,4 @@ Run like
 ```
 */2 * * * * python bikeinfo.py config.yml
 ```
+## Time-Series Analysis
