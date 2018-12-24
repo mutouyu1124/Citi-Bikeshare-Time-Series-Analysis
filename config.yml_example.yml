@@ -1,0 +1,6 @@
+API_URL: 'https://feeds.citibikenyc.com/stations/stations.json'
+DB_NAME: 'postgres'
+USER: 'postgres'
+PWD: '1234'
+TABLE: 'bikeinfo'
+DB_TYPE: 'postgresql'
