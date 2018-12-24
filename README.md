@@ -30,3 +30,5 @@ Run like
 */2 * * * * python bikeinfo.py config.yml
 ```
 ## Time-Series Analysis
+
+This process includes data preprocessing, visualization, transformation, training model, tuning hyper-parameter, evaluation and out of sample forecasts. Here ARIMA model and LSTM are used. The entire process can be found at [`City_Bank_Bike.ipynb`](https://github.com/mutouyu1124/Citi-Bikeshare-Time-Series-Analysis/blob/master/City_Bank_Bike.ipynb)
