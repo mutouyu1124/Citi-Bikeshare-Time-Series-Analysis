@@ -12,7 +12,7 @@ In this process, `config.yml` provides all the information needed for grabbing d
 * TABLE: name of the table that used to store data
 * DB_TYPE: the type of database (PostgreSQL)
 
-An example of config.yml can be found at  [`config.yml_example`](https://pages.github.com/)
+An example of config.yml can be found at  [`config.yml_example`](https://github.com/mutouyu1124/Citi-Bikeshare-Time-Series-Analysis/blob/master/config.yml_example.yml)
 
 ### [bikeinfo.py](https://pages.github.com/)
 
